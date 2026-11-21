@@ -1,6 +1,6 @@
 # Destek — UniTransfer
 
-Bir sorun mu yaşıyorsunuz ya da öneriniz mi var? [GitHub Issues](../../issues) üzerinden bize yazın.
+Bir sorun mu yaşıyorsunuz ya da öneriniz mi var? [GitHub Issues](https://github.com/mkocyigit/UniTransfer/issues) üzerinden bize yazın.
 
 ## Sık sorulan sorular
 
@@ -24,7 +24,7 @@ Hayır. Yalnızca aynı yerel ağda olmanız yeterli.
 
 # Support — UniTransfer (English)
 
-Questions or problems? Open an issue on [GitHub Issues](../../issues).
+Questions or problems? Open an issue on [GitHub Issues](https://github.com/mkocyigit/UniTransfer/issues).
 
 - **Device not listed:** Both devices must be on the same Wi‑Fi with UniTransfer open. On iOS, enable Settings → Privacy & Security → Local Network → UniTransfer. Guest/corporate networks may block discovery; add the device by IP address instead.
 - **Where are received files?** iOS: Files → On My iPhone/iPad → UniTransfer (photos/videos are also saved to Photos, optional). Android: Downloads/LANTransfer.
